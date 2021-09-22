@@ -25,3 +25,20 @@ Nodejs is used in server-side development.
  
 8.	It is the upgraded version of ECMA script that uses Chrome’s V8 engine written in C++. 
  	Nodejs is written in C, C++ and Javascript.
+
+
+
+4.Excute the below code and write your description in txt file 
+
+anser:
+
+code:
+typeof(1) //number
+typeof(1.1) //number
+typeof('1.1')//string
+typeof(true)//boolean
+typeof(null)//object
+typeof(undefined)//undefined
+typeof([])//object
+typeof({})//object
+typeof(NaN)//number
