@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<a  href = "mailto: ajithrevildo1999@gmail.com"><img align="left" alt="" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png"/></a>
+<a  href = "mailto: ajithrevildo1999@gmail.com"><img align="left" alt="" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png"/>Mail</a>
 
 <br />
 
@@ -28,13 +28,10 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 
-## 😄 Cool Stats
 
-![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragavkumarv&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragavkumarv&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavkumarv&layout=compact&theme=radical&langs_count=6)
+
 
 ---
 
