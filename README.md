@@ -11,8 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png"/>][<a href="">Mail</a>]
-
+<a  href = "mailto: ajithrevildo1999@gmail.com"><img align="left" alt="" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png"/></a>
 
 <br />
 
