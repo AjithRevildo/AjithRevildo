@@ -1,7 +1,7 @@
 ### Hi there, I'm Ajith Revildo 👋 
 
 
-## I'm a Developer!!
+## I'm a Fresher!!
 
 - 🔭 I just finish my course [computer science engineering]
 - 🌱 I’m currently learning everything 
