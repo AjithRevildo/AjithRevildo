@@ -9,6 +9,8 @@
 - 🥅 Goal: To Build a Artificial intelligence os
 - ⚡ Fun fact: I do Mimicry,Public Speaking,Teaching
 
+### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
+
 ### Connect with me:
 
 <a  href = "mailto: ajithrevildo1999@gmail.com"><img align="left" alt="" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png"/>Mail</a>
