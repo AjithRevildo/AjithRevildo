@@ -1,15 +1,13 @@
 ### Hi there, I'm Ajith Revildo 👋 
 
 
-## I'm a Fresher!!
+## I'm a Fresher!! <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
 
 - 🔭 I just finish my course [computer science engineering]
 - 🌱 I’m currently learning everything 
 - 👯 I’m currently looking for a good job
 - 🥅 Goal: To Build a Artificial intelligence os
 - ⚡ Fun fact: I do Mimicry,Public Speaking,Teaching
-
-### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
 
 ### Connect with me:
 
