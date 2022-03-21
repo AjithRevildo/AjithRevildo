@@ -1,5 +1,5 @@
 ### Hi there, I'm Ajith Revildo 👋 
-<p><img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"></P>
+### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
 
 ## I'm a Fresher!! 
 
