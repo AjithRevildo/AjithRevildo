@@ -1,7 +1,7 @@
-### Hi there, I'm Ajith Revildo 👋 
+### Hi there, I'm Ajith Revildo 👋 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
 
 
-## I'm a Fresher!! <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
+## I'm a Fresher!! 
 
 - 🔭 I just finish my course [computer science engineering]
 - 🌱 I’m currently learning everything 
