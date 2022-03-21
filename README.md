@@ -8,7 +8,7 @@
 - 👯 I’m currently looking for a good job
 - 🥅 Goal: To Build a Artificial intelligence os
 - ⚡ Fun fact: I do Mimicry,Public Speaking,Teaching
-
+<img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
 ### Connect with me:
 
 <a  href = "mailto: ajithrevildo1999@gmail.com"><img align="left" alt="" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png"/>Mail</a>
