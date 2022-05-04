@@ -1,11 +1,11 @@
 ### Hi there, I'm Ajith Revildo 👋 
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
 
-## I'm a Fresher!! 
+## I'm a Full Stack developer!! 
 
 - 🔭 I just finish my course [computer science engineering]
 - 🌱 I’m currently learning everything <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
-- 👯 I’m currently looking for a good job
+- 👯 Work in Frency 
 - 🥅 Goal: To Build a Artificial intelligence os
 - ⚡ Fun fact: I do Mimicry,Public Speaking,Teaching
 
