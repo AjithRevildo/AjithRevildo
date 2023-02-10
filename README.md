@@ -5,7 +5,7 @@
 
 - 🔭 I just finish my course [computer science engineering]
 - 🌱 I’m currently learning everything <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" height="230">
-- 👯 Work in  <img src="https://www.behance.net/gallery/34801777/Apollo?tracking_source=search_projects%7CApollo+Hospitals"  width="230" height="230">
+- 👯 Work in APOLLO HOSPITALS
 - 🥅 Goal: To Build a Artificial intelligence os
 - ⚡ Fun fact: I do Mimicry,Public Speaking,Teaching
 
