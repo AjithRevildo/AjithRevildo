@@ -21,16 +21,18 @@ I'm a **Full Stack developer** with a passion for building innovative solutions.
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img align="left" alt="CSS3" width="32px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="React" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="Node.js" width="32px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" alt="AWS" width="32px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<p align="left">
+  <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" />
+  <img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  <img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+  <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+  <img alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+  <img alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
+</p>
 
 <br />
 <br />
