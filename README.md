@@ -2,19 +2,19 @@
 
 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100">
 
-I'm a Full Stack developer with a passion for building innovative solutions. Here's a little bit about me:
+I'm a **Full Stack developer** with a passion for building innovative solutions. Here's a little bit about me:
 
-- 🔭 I have recently completed my course in Computer Science Engineering.
+- 🔭 I have recently completed my course in **Computer Science Engineering**.
 - 🌱 I'm constantly learning and exploring new technologies.
-- 👯 I work at APOLLO HOSPITALS.
-- 🥅 My goal is to build an Artificial Intelligence operating system.
-- ⚡ Fun fact: I have skills in Mimicry, Public Speaking, and Teaching.
+- 👯 I work at **APOLLO HOSPITALS**.
+- 🥅 My goal is to build an **Artificial Intelligence operating system**.
+- ⚡ Fun fact: I have skills in **Mimicry, Public Speaking, and Teaching**.
 
 ### Connect with me:
 
-<a href="mailto:ajithrevildo1999@gmail.com"><img align="left" alt="" width="32px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href="https://www.linkedin.com/in/ajith-revildo/"><img align="left" alt="" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://github.com/ajithrevildo"><img align="left" alt="" width="32px" src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+<a href="mailto:ajithrevildo1999@gmail.com"><img align="left" alt="Email" width="32px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://www.linkedin.com/in/ajith-revildo/"><img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://github.com/ajithrevildo"><img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
 
 <br />
 <br />
